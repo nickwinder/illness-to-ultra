@@ -1,4 +1,4 @@
-baseurl = "nickwinder.github.io/illness-to-ultra/"
+baseurl = "https://nickwinder.github.io/illness-to-ultra/"
 languageCode = "en-us"
 title = "Illness to Ultra"
 theme = "hugo-future-imperfect"
