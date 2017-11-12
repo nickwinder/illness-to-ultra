@@ -1933,6 +1933,22 @@
 	        opacity: 0.87;
 	    }
 
+	    article.post p,
+	    article.post ol {
+	        /* Theoretically for IE 8 & 9 (more valid) */
+	        /* ...but not required as filter works too */
+	        /* should come BEFORE filter */
+	        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+
+	        /* This works in IE 8 & 9 too */
+	        /* ... but also 5, 6, 7 */
+	        filter: alpha(opacity=60);
+
+	        /* Modern Browsers */
+	        opacity: 0.60;
+	    }
+
+
 /* Table */
 
 	table {
@@ -2499,6 +2515,7 @@
 /* Sidebar */
 
 	#sidebar {
+		margin-top: 3em;
 		margin-right: 3em;
 		min-width: 22em;
 		width: 22em;
