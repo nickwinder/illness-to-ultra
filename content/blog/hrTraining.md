@@ -23,7 +23,7 @@ In most literature, HR training is broken down into percentage zones of the maxi
 The first thing to do is to work out your heart rate or each zone. There is no easy way of doing this, but there are simple approximations we can use.
 
 ##### Resting HR
-First find your resting heart rate. Over a couple of days, take your heart rate 5-10 minutes after waking up and before you start rushing around for the day. The average of this gives your resting HR. Mine is around 50 bpm which is fairly low so do not be alarmed if yours is higher than this, on average people have resting HR's of around 60 - 100 bpm. This is also a fairly decent metric to keep track of as it is a relatively good indicator of fitness, the lower your resting HR the fitter you are, but always be aware of other serious heart issues causing a radical change in resting heart rates and also illness based changes.
+First find your resting heart rate. Over a couple of days, take your [heart rate right after waking up][Resting HR] and before you start rushing around for the day. The average of this gives your resting HR. Mine is around 50 bpm which is fairly low so do not be alarmed if yours is higher than this, on average people have resting HR's of around 60 - 100 bpm. This is also a fairly decent metric to keep track of as it is a relatively good indicator of fitness, the lower your resting HR the fitter you are, but always be aware of other serious heart issues causing a radical change in resting heart rates and also illness based changes.
 
 ##### Max HR
 Now we need to find your maximum HR. A crude example of this is to do 211 - (0.64 * your age). Therefore mine is :
@@ -63,5 +63,6 @@ One thing I notice when I first started to use this method was that throughout m
 ### Next
 Now that we have a good knowledge of types of runs based around the HR monitoring method. We can go forward and create a training plan around this. This is what I'll be discussing in my next blog post.
 
+[Resting HR]: https://www.polar.com/blog/how-to-measure-resting-heart-rate/
 [HR Zones]: https://www.mioglobal.com/en-uk/calculate-heart-rate-zones.htm
 [Cardiac Drift]: http://running.competitor.com/2014/05/training/the-effect-of-cardiac-drift-on-heart-rate-training_48317/2
