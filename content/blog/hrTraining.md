@@ -13,6 +13,8 @@ type = "post"
 ## Intro
 As explained in the introductory blog post, I often find I push myself far too much. Every training run turns into some sort of challenge, either it being upping my average pace, pushing my fastest kilometer or the demon that is Strava segments. You can't tell me that when you post a segment near the top of the leader board you aren't proud. But this all becomes part of the problem. Most of your training should not be done at pace, it should be a balance and I need to readdress this somehow.
 
+![heart rate](/img/heartRate.png)
+
 ## Heart Rate
 There are various methods of regulating energy output during a run. Monitoring pace, breathing, mentally perceived expenditure or even something that's being borrowed from the cycling world, power output.  But I decided I'd explore a tried and tested method of heart rate (HR) monitoring whilst running. I'm not saying this is better than any other, but offers me the opportunity to break down my energy output in numbers that will give me guidance and also hard and fast rules to ensure I am not over training/overreaching.
 
@@ -58,7 +60,9 @@ There are many names for this, but intervals are the best name for it as you are
 This is great, we now have much better way of defining our runs in way which is agnostic to your environment. So we can decide to do BBL 10km one day and still know we will not be too fatigued to carry on with the day and even exercise the next day. Whereas we know if we are set to do a 5km threshold run we are starting to push our limits and will need time to rest afterwards. It would be advisable to be fairly sedentary for the rest of the day and also take it easy if you have any exercise planned the next day.
 
 ### HR Drift
-One thing I notice when I first started to use this method was that throughout my run my HR started to drift, even though my perceived effort and pace was still stable. Because of this, on my BB and Threshold runs I keep a track of my HR percentage over the first 10 mins, in which you should reach a stable state, and then attempt to keep the same perceived output throughout the remainder of the run, or keep at roughly the same pace. I'll be honest I am not completely sure that this is right idea, but it is what is working for me right now. You can read up on this [here][Cardiac Drift] and also searching around the internet.
+One thing I notice when I first started to use this method was that throughout my run my HR started to drift, even though my perceived effort and pace was still stable. Because of this, on my BB and Threshold runs I keep a track of my HR percentage over the first 10 mins, in which you should reach a stable state, and then attempt to keep the same perceived output throughout the remainder of the run, or keep at roughly the same pace. I'll be honest I am not completely sure that this is right idea, but it is what is working for me right now. You can read up on this [here][Cardiac Drift] and also searching around the Internet.
+
+![heart rate graph](/img/heartRatePaceCompare.png)
 
 ### Next
 Now that we have a good knowledge of types of runs based around the HR monitoring method. We can go forward and create a training plan around this. This is what I'll be discussing in my next blog post.
