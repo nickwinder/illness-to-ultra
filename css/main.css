@@ -1344,6 +1344,9 @@
 
 		#content img {
         max-width: 100%;
+			  max-height: 400px;
+			  display: block;
+			  margin: auto;
     }
 
     #content p a,
@@ -1354,6 +1357,11 @@
         #content p a:hover {
             border-bottom-color: transparent;
         }
+
+				#content p,
+				#content ol {
+						  color: rgba(0, 0, 0, 0.60);
+				}
 
     #content blockquote,
 		#content p,
@@ -1919,33 +1927,7 @@
 	    article.post h2,
 	    article.post h3,
 	    article.post h4 {
-	        color: #000000;
-	        /* Theoretically for IE 8 & 9 (more valid) */
-	        /* ...but not required as filter works too */
-	        /* should come BEFORE filter */
-	        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=87)";
-
-	        /* This works in IE 8 & 9 too */
-	        /* ... but also 5, 6, 7 */
-	        filter: alpha(opacity=87);
-
-	        /* Modern Browsers */
-	        opacity: 0.87;
-	    }
-
-	    article.post p,
-	    article.post ol {
-	        /* Theoretically for IE 8 & 9 (more valid) */
-	        /* ...but not required as filter works too */
-	        /* should come BEFORE filter */
-	        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
-
-	        /* This works in IE 8 & 9 too */
-	        /* ... but also 5, 6, 7 */
-	        filter: alpha(opacity=60);
-
-	        /* Modern Browsers */
-	        opacity: 0.60;
+				  color: rgba(0, 0, 0, 0.87);
 	    }
 
 
