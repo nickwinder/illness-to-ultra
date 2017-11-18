@@ -32,7 +32,7 @@ The other two running sessions are focusing on base building enhancing my muscul
 #### Active
 Around once a week there is a block named active. This is where some type of cross training comes into effect. It's not about having an intensive session again, but just introducing another form of exercise and diversifying.  This help drastically as it ensures that we still have some emphasis on the parts of the body neglected when only running. For myself this will pretty much always be some form of cycling. It'll only be a fairly gentle cycle in and around town, but it will just help get some more miles in the legs, but reducing the impact on my joints etc. 
 #### Strength
-I feel this is a very important point of this plan. Many runners neglect the strength side of training, believing that getting out for an extra run will benefit them more. This is never true and will more than likely result in injury. This is a particular area that I struggle with. However much rigour and determination I have in my running life, sometimes this just does not translate over to other areas of my life. So I will be focusing on this area a lot and ensuring I put the effort in to minimise that risk of injury.
+I feel this is a very important point of this plan. Many runners neglect the strength side of training, believing that getting out for an extra run will benefit them more. This is never true and will more than likely result in injury. This is a particular area that I struggle with. However much rigour and determination I have in my running, sometimes this just does not translate over to other areas of my life. So I will be focusing on this area a lot and ensuring I put the effort in to minimise that risk of injury. Also see that the strength routines focus on different areas of the body, to ensure my full body make up is accounted for and nothing become under developed.
 #### Rest
 Obviously this means rest. It does not mean sit all day, but it will certainly mean a reduced work load. A little bit of walking around town etc. But that is the extent of it. 
 
@@ -44,5 +44,5 @@ The next 4 weeks are roughly the same as you've seen above only upping the dista
 [HR Training]: /content/blog/hrTraining.md
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MzQ0NDYyXX0=
+eyJoaXN0b3J5IjpbLTExOTQ0OTMxNjFdfQ==
 -->
