@@ -13,7 +13,7 @@ type = "post"
 ## Intro
 If you've not read my [first few posts][Introduction], I'd suggest moving back and going through these first. This will give you a basis on why this plan is focused on specific training and gradual build up. 
 
-This post will take you through the outline of my training plan, in which I will be strict with pacing and distance, ensuring not to over do it at any point. Please note that I already have a good base for running, therefore it would be advisable to scale down the distances slightly.
+This post will take you through the outline of my training plan, in which I will be strict with pacing and distance, ensuring not to over do it at any point. Please note that I already have a good base for running, therefore it would be advisable to scale up/down the distances for your own needs.
 
 ## The Plan
 Although you would expect the main focus of the plan to be about running this is not the case. The plan dictates that I will be active 6 days of the week with 1 day of rest.  This may sound like a lot, but it's important to note the intensity of most of these days. Out of all the days, I would say that only 1 of the days is strenuously intensive.  Also, this is highly based around my own situation where I am static most of the day as I have a desk job. Therefore taking the time out my day to exercise is very important for my health both physically and mentally.
@@ -44,5 +44,5 @@ The next 4 weeks are roughly the same as you've seen above only upping the dista
 [HR Training]: /content/blog/hrTraining.md
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTg3OTI5Ml19
+eyJoaXN0b3J5IjpbLTEzNjQzMTc4OTddfQ==
 -->
