@@ -6,7 +6,7 @@ description = "Here starts a new blog. From illness to ultra."
 featured = "runAway-feature.png"
 featuredalt = "Run Away"
 featuredpath = "img/"
-linktitle = ""
+linktitle = "Introduction"
 title = "intro"
 type = "post"
 
@@ -31,3 +31,6 @@ Due to my lust for pushing myself I often find myself injured. I always feel lik
 Defining an Ultra as a personal goal is no small claim, but as many people have shown before it's more than doable and it is just a case of being methodical and patient. First of all I need to regularly get over the half marathon distance, and being that 30km is my longest ever run I'm going to have to start small and work up. This is something I'll explore further in posts to come, where I'll list minor goals along the way.
 
 So I hope that gives a general outline of what to expect from the blog and hopefully I can put together some useful content that people can draw upon the information to build their own training plan and make small changes to their lives.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzNDA0NTc0M119
+-->
