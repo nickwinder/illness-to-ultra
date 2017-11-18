@@ -18,12 +18,12 @@ This post will take you through the outline of my training plan, in which I will
 ## The Plan
 Although you would expect the main focus of the plan to be about running this is not the case. The plan dictates that I will be active 6 days of the week with 1 day of rest.  This may sound like a lot, but it's important to note the intensity of most of these days. Out of all the days, I would say that only 1 of the days is strenuously intensive.  Also, this is highly based around my own situation where I am static most of the day as I have a desk job. Therefore taking the time out my day to exercise is very important for my health both physically and mentally.
 
-| Monday  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | 
-| :-----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| BBH 4km |	Stregth - upper body | Threshold 5km | Strength - yoga | Active | Rest     | BBL Run 9Km |
-| Strength - Lower body | BBH 4km | Strength - Yoga | Intervals	 | Strength - Upper body | Rest     | BBL Run 10Km |
-| Strength - Yoga | BBH 4km | Strength - Core | Intervals | Active | Rest | BBL Run 10Km |
-| BBH 3Km | Strength - upper Body | Threshold 5Km | Rest | Strength - Yoga | Rest | BBL 11km| 
+| Monday                | Tuesday               | Wednesday       | Thursday        | Friday                | Saturday     | Sunday       | 
+| :-------------------: | :-------------------: | :-------------: | :-------------: | :-------------------: | :----------: | :----------: |
+| BBH 4km               | Stregth - upper body  | Threshold 5km   | Strength - yoga | Active                | Rest         | BBL Run 9Km  |
+| Strength - Lower body | BBH 4km               | Strength - Yoga | Intervals       | Strength - Upper body | Rest         | BBL Run 10Km |
+| Strength - Yoga       | BBH 4km               | Strength - Core | Intervals       | Active                | Rest         | BBL Run 10Km |
+| BBH 3Km               | Strength - upper Body | Threshold 5Km   | Rest            | Strength - Yoga       | Rest         | BBL 11km     | 
 
 This shows the first 4 weeks of the plan and from the previous post about [heart rate training][HR Training] you will know the acronyms BBH (base building high) and BBL (base building low), along with the different sessions like intervals and threshold.  
 #### Running
