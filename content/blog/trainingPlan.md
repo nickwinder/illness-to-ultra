@@ -28,7 +28,7 @@ Although you would expect the main focus of the plan to be about running this is
 This shows the first 4 weeks of the plan and from the previous post about [heart rate training][HR Training] you will know the acronyms BBH (base building high) and BBL (base building low), along with the different sessions like intervals and threshold.  
 #### Running
 I'll be setting out by running 3 times a week, which previously to me would have been a heavy running week, but this is my old understanding of running 100% all the time. This is not the case here, as you can see only one run per week is intensive. This is either a threshold workout or interval work out. These have the purpose of building that anaerobic threshold, building strength and therefore upping my overall pace. 
-The other two running sessions are focusing on base building enhancing my muscle skeletal make up helping my endurance.  The longer of these 2 are steadily building and will do throughout the plan to but only doing so conservatively. 
+The other two running sessions are focusing on base building enhancing my muscular and skeletal make up, thus helping my endurance.  The longer of these 2 are steadily building and will do throughout the plan too, but only doing so conservatively. 
 #### Active
 Around once a week there is a block named active. This is where some type of cross training comes into effect. It's not about having an intensive session again, but just introducing another form of exercise and diversifying.  This help drastically as it ensures that we still have some emphasis on the parts of the body neglected when only running. For myself this will pretty much always be some form of cycling, it'll only be a fairly gentle cycle in and around town, but it will just help get some more miles in the legs, but reducing the impact on my joints etc. 
 #### Strength
@@ -44,5 +44,5 @@ The next 4 weeks are roughly the same as you've seen above only upping the dista
 [HR Training]: /content/blog/hrTraining.md
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzMTc4OTddfQ==
+eyJoaXN0b3J5IjpbLTk2MjkwMjU5OF19
 -->
