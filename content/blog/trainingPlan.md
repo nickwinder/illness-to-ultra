@@ -36,7 +36,7 @@ I feel this is a very important point of this plan. Many runners neglect the str
 #### Rest
 Obviously this means rest. It does not mean sit all day, but it will certainly mean a reduced work load. A little bit of walking around town, but just being mindful not to over excerpt yourself.
 #### Other
-Something that has not been noted down in this plan is stretching. I am not an avid stretcher, [especially not before a run][Stretching]. But I do sometimes do some at night, usually after a running day and also use foam rollers and massage balls. I feel this is important to ensure you keep a good range of motion and also it help you listen to your body a little more. You start to feel where you are tight, which areas of the body will cause injury soon. I can't stress enough the importance of knowing injury symptoms.  The problem/painful area is more often than not the cause of the issue, in a lot of issues the problem are is usually further up the chain. Like knee problems being hip and glut issues. And hip flex strains being core strength issues. I would highly advise you see physio's to talk through any pains or niggles you have and ensure you have a good stretching and strengthening plan. Or like me. You k
+Something that has not been noted down in this plan is stretching. I am not an avid stretcher, [especially not before a run][Stretching]. But I do sometimes do some at night, usually after a running day and also use foam rollers and massage balls. I feel this is important to ensure you keep a good range of motion and also it help you listen to your body a little more. You start to feel where you are tight, which areas of the body will cause injury soon. I can't stress enough the importance of knowing injury symptoms.  The problem/painful area is more often than not the cause of the issue, in a lot of issues the problem are is usually further up the chain. Like knee problems being hip and glut issues. And hip flex strains being core strength issues. I would highly advise you see physio's to talk through any pains or niggles you have and ensure you have a good stretching and strengthening plan. Or like me. You get to know the warning signs of your injuries so well!
 
 ## Future
 As of now, I have actually completed these first 4 weeks of training and I'm really glad to say they have gone very well. I'm injury free, other than a few small niggles, but nothing that will stop me. Between the 2 threshold sessions I managed to shave off 6 seconds/km which is very substantial and generally I'm feeling much better. Day to day, I feel far from the illness that started 5 months ago and hopefully I'll continue on this projection. 
@@ -47,5 +47,5 @@ The next 4 weeks are roughly the same as you've seen above only upping the dista
 [HR Training]: /content/blog/hrTraining.md
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNjkyMzczXX0=
+eyJoaXN0b3J5IjpbLTE4OTcwMTIzNDNdfQ==
 -->
