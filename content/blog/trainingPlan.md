@@ -35,14 +35,16 @@ Around once a week there is a block named active. This is where some type of cro
 I feel this is a very important point of this plan. Many runners neglect the strength side of training, believing that getting out for an extra run will benefit them more. This is never true and will more than likely result in injury. This is a particular area that I struggle with. However much rigour and determination I have in my running, sometimes this just does not translate over to other areas of my life. So I will be focusing on this area a lot and ensuring I put the effort in to minimise that risk of injury. Also see that the strength routines focus on different areas of the body, to ensure my full body make up is accounted for and nothing become under developed.
 #### Rest
 Obviously this means rest. It does not mean sit all day, but it will certainly mean a reduced work load. A little bit of walking around town, but just being mindful not to over excerpt yourself.
+#### Other
+Something that has not been noted down in this plan is stretching. 
 
 ## Future
 As of now, I have actually completed these first 4 weeks of training and I'm really glad to say they have gone very well. I'm injury free, other than a few small niggles, but nothing that will stop me. Between the 2 threshold sessions I managed to shave off 6 seconds/km which is very substantial and generally I'm feeling much better. Day to day, I feel far from the illness that started 5 months ago and hopefully I'll continue on this projection. 
 
-The next 4 weeks are roughly the same as you've seen above only upping the distances. 1 of the weeks I will be running 4 times, which will be interesting to see how my body reacts in terms of any inflammation etc. And at the end of this cycle I should be at  around 15km for my long run. 
+The next 4 weeks are roughly the same as you've seen above only upping the distances. 1 of the weeks I will be running 4 times, which will be interesting to see how my body reacts in terms of any inflammation etc. And at the end of this cycle I should be at  around 15km for my long run.
 
 [HR Training]: /content/blog/hrTraining.md
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU4OTgwXX0=
+eyJoaXN0b3J5IjpbLTEyODA5NTAxMDldfQ==
 -->
