@@ -70,3 +70,6 @@ Now that we have a good knowledge of types of runs based around the HR monitorin
 [Resting HR]: https://www.polar.com/blog/how-to-measure-resting-heart-rate/
 [HR Zones]: https://www.mioglobal.com/en-uk/calculate-heart-rate-zones.htm
 [Cardiac Drift]: http://running.competitor.com/2014/05/training/the-effect-of-cardiac-drift-on-heart-rate-training_48317/2
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MzA2NzUxMjFdfQ==
+-->
