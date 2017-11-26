@@ -3,8 +3,8 @@ author = "Nick Winder"
 categories = ["training"]
 date = "2017-11-18T11:10:00Z"
 description = "An introduction to my gradual build up training plan"
-featured = "trainingPlan-feature.jpg"
-featuredalt = "training plan image"
+featured = "traininglan"
+featuredalt = "training pPlan image-feature.png"
 featuredpath = "img/"
 linktitle = ""
 title = "The gradual training plan "
@@ -21,7 +21,7 @@ Although you would expect the main focus of the plan to be about running this is
 | Monday                | Tuesday               | Wednesday       | Thursday        | Friday                | Saturday     | Sunday       |
 | :-------------------: | :-------------------: | :-------------: | :-------------: | :-------------------: | :----------: | :----------: |
 | BBH 4km               | Stregth - upper body  | Threshold 5km   | Strength - yoga | Active                | Rest         | BBL Run 9Km  |
-| Strength - Lower body | BBH 4km               | Strength - Yoga | Intervals       | Strength - Upper body | Rest         | BBL Run 10Km |
+| Strength - Lower body | BBH 4km               | Strength - Yoga | Intervals      	 | Strength - Upper body | Rest         | BBL Run 10Km |
 | Strength - Yoga       | BBH 4km               | Strength - Core | Intervals       | Active                | Rest         | BBL Run 10Km |
 | BBH 3Km               | Strength - upper Body | Threshold 5Km   | Rest            | Strength - Yoga       | Rest         | BBL 11km     | 
 
@@ -50,4 +50,7 @@ The next 4 weeks are roughly the same as you've seen above only upping the dista
 [Introduction]: /content/blog/intro.md
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA2MzY2MTMxMF19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzQzMDM4NjkxXX0=
 -->
