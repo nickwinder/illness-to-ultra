@@ -6,8 +6,46 @@
     <description>Recent content in Training on Illness to Ultra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2017 11:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2017 19:29:03 +0000</lastBuildDate>
     <atom:link href="http://www.illnesstoultra.com/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Heart rate variance</title>
+      <link>http://www.illnesstoultra.com/blog/hrv/</link>
+      <pubDate>Sat, 02 Dec 2017 19:29:03 +0000</pubDate>
+      
+      <guid>http://www.illnesstoultra.com/blog/hrv/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-heart-rate-variance:710fa11f4f3f3f0cce2973e996c8d4f3&#34;&gt;What is Heart Rate Variance&lt;/h2&gt;
+
+&lt;p&gt;Heart rate variance (HRV) based on the measurement of time between heart beats. This measure mean is named the R-R interval. Having timings which are more variable gives a higher HRV and vise versa. Most people will know their resting heart rate, or at least understand what heart rate represents. But it comes as a surprise that the timing of the heart rate is not metronomic. There are tiny fluctuations in these R-R intervals, which can be used as a great indicator of fitness and stress on the body and this is what we are going to further explore.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.illnesstoultra.com/img/hrvGraph.png&#34; alt=&#34;Picture of R-R interval&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-does-this-tell-us:710fa11f4f3f3f0cce2973e996c8d4f3&#34;&gt;What does this tell us?&lt;/h2&gt;
+
+&lt;p&gt;There are many ways to analyse HRV, but in it&amp;rsquo;s most simplistic approach, the higher the the HRV the better. But this does not tell the full story. When the body has been stressed and is recovering, for example the morning after a hard workout, the R-R interval becomes a lot more rhythmic therefore lowering HRV. This is true of any stressful situation on the body, whether it be recovery from training, illness or even food allergies, essentially anything that can stress your body. So in the inverse to this, when the body is truly rested the R-R interval becomes much more sporadic and HRV goes up.&lt;/p&gt;
+
+&lt;p&gt;Using this information we can find  the optimal time to train without questioning our subjective thoughts. From here we can tune our training plans and also look for trends in the data to further our selves.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-do-we-test-this:710fa11f4f3f3f0cce2973e996c8d4f3&#34;&gt;How do we test this?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.illnesstoultra.com/img/polarHRM.png&#34; alt=&#34;Polar Heart Rate Monitor&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Measuring HRV is fairly simple although it takes patience and consistency. One of the biggest issues to understand, is that HRV values are very personal, therefore we should not compare scores with one another as everybody&amp;rsquo;s baseline is very different. In addition to this, it is really important to work out a baseline value before amending train routines.&lt;/p&gt;
+
+&lt;p&gt;To perform the measurements, a standard fitness heart rate monitor will be needed. Although smartwatches often have HR functionality, they are not accurate enough to gather this information, therefore a chest mounted monitor is recommended. Next we&amp;rsquo;ll need a mobile application which kicks off the measurement and aggregates the data. I&amp;rsquo;ve found &lt;a href=&#34;https://elitehrv.com/&#34;&gt;Elite HRV&lt;/a&gt; to be the easiest and most reliable product for this. Just follow the guides in the app and it&amp;rsquo;ll take you through the measurements.&lt;/p&gt;
+
+&lt;p&gt;During the first week, the algorithm will be tuning itself to your data, so it&amp;rsquo;s important to keep consistent. To ensure that there are no external effects skewing your measure it is best to take the measurement in the morning just after you wake up. This ensures the body is in it&amp;rsquo;s most rested state and no factors like food, or mental stress have an effect on the measurement. Another point to make is the position in which to take the measurement. It&amp;rsquo;s been referenced in this &lt;a href=&#34;https://www.youtube.com/watch?v=mtXzlFytJnw&amp;amp;t=3s&#34;&gt;video&lt;/a&gt; that it is best to take the measurement whilst sitting and resting in a chair. Some applications show that it is best to take the measurement whilst laying down, but this has been seen to suppress the response and render it hard to extract the data.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-ve-found:710fa11f4f3f3f0cce2973e996c8d4f3&#34;&gt;What I&amp;rsquo;ve found&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.illnesstoultra.com/img/eliteHRV.png&#34; alt=&#34;EliteHRV&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been taking my HRV every morning for about 3 months now, and the results are interesting. I&amp;rsquo;ve found some great correlation with my training, and sometimes it&amp;rsquo;s obvious to see that I can push further. But on the other hand, this has not help too much as I know why joints would fall apart if I tried this. On the other hand some results have been hard to explain. One anomaly came about when I had super high HRV reading, but the Elite HRV readiness reading was red. This was confusing as I explained before we assumed the higher the better. Actually, this is not always the case. We know many different things can have an effect on the reading and this time it was just not known. I didn&amp;rsquo;t feel too different. Maybe a bad night&amp;rsquo;s sleep but nothing too drastic. I did repeat tests to ensure that it was correct and all 3 tests came out similar. So either there was a bug in the software or I really was run down. The lesson to be learnt here is to take HRV as a gentle guide not a complete solution.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The gradual training plan </title>
@@ -27,61 +65,12 @@
 
 &lt;p&gt;Although you would expect the main focus of the plan to be about running this is not the case. The plan dictates that I will be active 6 days of the week with 1 day of rest.  This may sound like a lot, but it&amp;rsquo;s important to note the intensity of most of these days. Out of all the days, I would say that only 1 of the days is strenuously intensive.  Also, this is highly based around my own situation where I am static most of the day as I have a desk job. Therefore taking the time out my day to exercise is very important for my health both physically and mentally.&lt;/p&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;Monday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Tuesday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Wednesday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Thursday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Friday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Saturday&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Sunday&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;BBH 4km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Stregth - upper body&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Threshold 5km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - yoga&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Active&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rest&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBL Run 9Km&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Lower body&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBH 4km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Yoga&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Intervals&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Upper body&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rest&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBL Run 10Km&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Yoga&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBH 4km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Core&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Intervals&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Active&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rest&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBL Run 10Km&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;BBH 3Km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - upper Body&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Threshold 5Km&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rest&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Strength - Yoga&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rest&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;BBL 11km&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;| Monday                | Tuesday              | Tuesday | Wednesday       | Thursday        | Friday                | Saturday     | Sunday       |
+| :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;: | :&amp;mdash;&amp;ndash;: | :&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;: | :&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;-: | :&amp;mdash;&amp;mdash;&amp;mdash;-: |
+| BBH 4km               | | Stregth - upper body  | Threshold 5km   | Strength - yoga | Active                | Rest         | BBL Run 9Km  |
+| Strength - Lower body | BBH 4km               | Strength - Yoga | Intervals        | Strength - Upper body | Rest         | BBL Run 10Km |
+| Strength - Yoga       | BBH 4km               | Strength - Core | Intervals       | Active                | Rest        | Rest | BBL Run 10Km |
+| BBH 3Km               | Strength - upper Body | Threshold 5Km   | Rest            | Strength - Yoga       | Rest         | BBL 11km     |&lt;/p&gt;
 
 &lt;p&gt;This shows the first 4 weeks of the plan and from the previous post about &lt;a href=&#34;http://www.illnesstoultra.com/content/blog/hrTraining.md&#34;&gt;heart rate training&lt;/a&gt; you will know the acronyms BBH (base building high) and BBL (base building low), along with the different sessions like intervals and threshold.&lt;/p&gt;
 
@@ -116,6 +105,10 @@ The other two running sessions are focusing on base building enhancing my muscul
 
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA2MzY2MTMxMF19
+--&gt;
+
+&lt;!--stackedit_data:
+eyJoaXN0b3J5IjpbNTk5NzQ3Njc3XX0=
 --&gt;
 </description>
     </item>
