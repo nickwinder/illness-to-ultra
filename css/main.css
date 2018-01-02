@@ -54,7 +54,7 @@
 		content: none;
 	}
 
-	header p {
+	header p ul li {
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.7em;
 		font-weight: 400;
@@ -1352,6 +1352,8 @@
     #content p a,
 		#content ul li a {
         border-bottom: dotted 2px rgba(160,160,160,.65);
+	    color: rgba(0, 0, 0, 0.60);
+
     }
 
         #content p a:hover {
@@ -1359,7 +1361,9 @@
         }
 
 				#content p,
-				#content ol {
+				#content ol,
+				#content ul,
+				#content li {
 						  color: rgba(0, 0, 0, 0.60);
 				}
 
