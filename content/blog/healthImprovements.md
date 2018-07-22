@@ -1,0 +1,30 @@
++++
+author = "Nick Winder"
+categories = ["health"]
+date = "2018-07-21T19:29:03Z"
+description = "Never stop searching for improvements in your health."
+featured = "health-feature.jpg"
+featuredalt = "Health Improvements"
+featuredpath = "img/"
+linktitle = ""
+title = "Health Improvements"
+type = "post"
++++
+## Everyone has issues
+Everyone in the world has some health issue/s. Just some more than others. But just because we think we feel ok, it doesn’t mean we should stop looking for solutions to improve our health. We often answer the question “How are you?” with “Good” , “Ok , “Yeah, not bad” and only sometimes we say we are feeling “down and out” or react in some negative way. Often this is not the true representation of how we feel, it’s just the amount we want to divulge. So I’d like to force people to review and ask themselves a question, “How could I feel even better?” This question has no baseline. It just encourages you to seek more from yourself than what you currently have. 
+
+## The Back Story
+As this blog name suggests, I had a strange bout of illness in which I was unsure of the cause. I also went to a bunch of doctors in different countries and still was none the wiser. The only hope I believed I had was that my body would reset to my known equilibrium and therefore wait. This method did work but only to a certain extent, I improved, but very slowly. Maybe this was because my issue was difficult to get rid of or maybe I just wasn’t tackling it in the right way. I don’t want to get into the specifics in this post as I believe it is fairly irrelevant unless your body is exactly the same as mine, instead I want to focus on what to do.
+
+## Who to listen to?
+Easy answer, “Everyone and no one”. In the early stages the only hope I believed I had was in doctors, but with hindsight this was incorrect. I believed there were many errors made by doctors (I’m not saying it’s their fault, the healthcare system is also not built up to help doctors do their job), and even some out right scary propositions where made. If I had 100% brain power at the time I would have reverted back to my University days and researched as much as possible. One thing that has come of this is that I can safely still side with being sceptical until you’ve researched and understand your situation. Back to the answer of this question. We need to listen to everyone as we can be informed by many different sources. One of my “aha” moments came from a podcast. I’m not saying that that was the solution, but it got me thinking in a different way. Do the research and read in depth into the issues, work as hard as you can to become a master in the field. Because your situation is so specific it’s possible to become a master in yourself and nobody knows you better that YOU! 
+
+## Don’t settle for OK
+After six months of very gradual improvements I started coming round to the idea that I would never feel 100% again. I’d settled for second best and started looking to other areas of my life which could satisfy me. This is a mental attitude which needs to be quashed! You can be better, even if it’s 1%, that is still better, and you never know, the next year you may be another 1% better. If you keep searching for answers you will find new avenues. Personally I’d found some amazing correlations between my health and information that you would find with what I would call modern healthcare. Modern healthcare is looking to your past and matching exploring effects which can be seen in your current state, be it labs, subjective feelings, or other tests. I’d never explored into my past health history as much as I did at this time. It brought up some amazing findings and links to possible historical mistakes. It also took the focus off the “symptom of the day”, which is what many other doctors would always focus on. This would lead doctors to use some metaphorical sledgehammer to solve the problem. We delveled into underlying problems and attempted to solve these in the assumption that this would push my body into balance.
+
+## What’s the next step?
+Simple. Keep on searching. Just because I feel better on most days it doesn’t mean I don’t have off days. This means I can still further improve and this fact will not change for the rest of my life. My research has pushed me further into genetics, which has brought up some very interesting results in which I can act upon now to bring a better life in the future. This type of information is not in mainstream medicine yet, and maybe some would say a little experimental, but scientific papers and study groups are the best and only information we have to work on. Plus the data I have found in my genetics has further backed up my lab tests and symptoms I’ve had throughout the last 4 years of my life. I feel this indicates some great evidence in which to act upon.  Again the action here is to keep searching and backup your theories with evidence. Try not to be irrational, and do not take everyones opinion and information as gospel. Ensure you backup any information with your own evidence and ensure you understand the situation before you act upon it. 
+
+## Conclusion
+I set out to write this blog post about the specific information and data I’d found on my health issues. But after the first sentence I decided to write a different blog post. What’s the use in knowing my issues? I hope I’d encourage you to research your own issues. And again, you may not even have issues. If you don’t, just research ways in which to improve your life. These improvements can come in all walks of life, being it mental, physical, emotional. It doesn’t really matter, but anything you can do to learn more about yourself will benefit you in the long run.
+
